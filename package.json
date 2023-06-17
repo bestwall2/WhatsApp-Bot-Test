@@ -6,6 +6,7 @@
   "author": "alphasec",
   "license": "MIT",
    "dependencies": {
+   "whatsapp-web.js":"^1.21.0"
   },
   "scripts": {
     "start": "node index.js"
